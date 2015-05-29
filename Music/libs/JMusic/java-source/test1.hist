@@ -1,0 +1,4 @@
+// DrJava saved history v2
+AmazingGraceSong song1 = new AmazingGraceSong();//End of Interaction//
+song1.fillMeUp();//End of Interaction//
+song1.showMe();//End of Interaction//
